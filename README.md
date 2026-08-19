@@ -62,7 +62,7 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser. The home page will check the backend health endpoint and display **"Backend connected"**.
+Open [http://localhost:3005](http://localhost:3005) in your browser. The home page will check the backend health endpoint and display **"Backend connected"**.
 
 ## Testing
 
